@@ -1,0 +1,1 @@
+var json_taller2ser_tran_9_9 = {"type":"FeatureCollection","name":"taller2ser_tran_9_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nombre":"Parqueadero 1","direccion":"KR 8 con CL 21","remi":1.0},"geometry":{"type":"MultiPoint","coordinates":[[-76.523396696215769,3.451369667255208]]}}]}
